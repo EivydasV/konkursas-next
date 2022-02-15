@@ -1,0 +1,9119 @@
+{
+"photos": [
+{
+"id": 928928,
+"sol": 3374,
+"camera": {
+"id": 20,
+"name": "FHAZ",
+"rover_id": 5,
+"full_name": "Front Hazard Avoidance Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/fcam/FLB_697033771EDR_F0930000FHAZ00337M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928929,
+"sol": 3374,
+"camera": {
+"id": 20,
+"name": "FHAZ",
+"rover_id": 5,
+"full_name": "Front Hazard Avoidance Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/fcam/FRB_697033771EDR_F0930000FHAZ00337M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928930,
+"sol": 3374,
+"camera": {
+"id": 20,
+"name": "FHAZ",
+"rover_id": 5,
+"full_name": "Front Hazard Avoidance Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/fcam/FLB_697033632EDR_F0930000FHAZ00200M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928931,
+"sol": 3374,
+"camera": {
+"id": 20,
+"name": "FHAZ",
+"rover_id": 5,
+"full_name": "Front Hazard Avoidance Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/fcam/FLB_697032894EDR_F0930000FHAZ00200M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928932,
+"sol": 3374,
+"camera": {
+"id": 21,
+"name": "RHAZ",
+"rover_id": 5,
+"full_name": "Rear Hazard Avoidance Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/rcam/RLB_697033831EDR_F0930000RHAZ00337M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928933,
+"sol": 3374,
+"camera": {
+"id": 21,
+"name": "RHAZ",
+"rover_id": 5,
+"full_name": "Rear Hazard Avoidance Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/rcam/RRB_697033831EDR_F0930000RHAZ00337M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929016,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014060041303682C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929017,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014060031303681C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929018,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014060021504043C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929019,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014060021303680C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929020,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014060011504042C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929021,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014050171504040C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929022,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014050171303677C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929023,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014050161504039C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929024,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014050161303676C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929025,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014050141504037C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929026,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014050141303675C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929027,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014050131504036C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929028,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014050131303674C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929029,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014050121504035C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929030,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014050121303673C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929031,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014050111504034C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929032,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014050111303672C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929033,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014050101504033C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929034,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014050101303671C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929035,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014050091504032C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929036,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014050091303670C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929037,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014050081504031C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929038,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014050081303669C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929039,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014050071504030C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929040,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014050071303668C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929041,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014050061504029C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929042,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014050061303667C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929043,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014050051504028C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929044,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014050051303666C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929045,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014050031303665C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929046,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014050011303664C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929047,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014040301504022C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929048,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014040301303663C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929049,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014040291504021C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929050,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014040291303662C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929051,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014040281504020C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929052,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014040281303661C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929053,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014040271504019C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929054,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014040271303660C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929055,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014040261504018C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929056,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014040261303659C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929057,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014040251504017C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929058,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014040251303658C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929059,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014040241504016C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929060,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014040241303657C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929061,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014040231504015C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929062,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014040231303656C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929063,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014040211504013C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929064,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014040211303655C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929065,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014040191504011C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929066,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014040191303654C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929067,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014040181504010C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929068,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014040181303653C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929069,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014040171504009C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929070,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014040171303652C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929071,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014040161303651C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929072,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014040161504008C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929073,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014040151504007C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929074,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014040151303650C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929075,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014040141504006C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929076,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014040141303649C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929077,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014040131504005C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929078,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014040131303648C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929079,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014040121504004C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929080,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014040121303647C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929081,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014040111303646C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929082,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014040101504002C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929083,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014040101303645C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929084,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014040081504000C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929085,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014040081303644C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929086,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014040061303643C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929087,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014040061503998C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929088,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014040051503997C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929089,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014040051303642C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929090,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014040031503995C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929091,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014040031303641C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929092,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014040021503994C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929093,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014040021303640C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929094,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014040011303639C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929095,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014040011503993C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929096,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014030041303638C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929097,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014030031303637C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929098,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014030021503989C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929099,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014030021303636C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929100,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014030011303635C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929101,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014030011503988C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929102,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014020001503986C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929103,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014020001303633C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929104,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014060041504045I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929105,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014060041303682I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929106,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014060031303681I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929107,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014060031504044I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929108,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014060021504043I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929109,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014060021303680I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929110,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014060011303679I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929111,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014060011504042I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929112,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014060001504041I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929113,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014060001303678I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929114,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014050171504040I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929115,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014050171303677I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929116,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014050161504039I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929117,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014050161303676I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929118,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014050151504038I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929119,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014050141504037I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929120,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014050141303675I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929121,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014050131504036I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929122,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014050131303674I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929123,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014050121504035I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929124,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014050121303673I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929125,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014050111504034I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929126,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014050111303672I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929127,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014050101504033I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929128,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014050101303671I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929129,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014050091504032I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929130,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014050091303670I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929131,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014050081504031I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929132,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014050081303669I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929133,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014050071504030I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929134,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014050071303668I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929135,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014050061504029I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929136,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014050061303667I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929137,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014050051504028I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929138,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014050051303666I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929139,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014050041504027I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929140,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014050031504026I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929141,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014050031303665I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929142,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014050021504025I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929143,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014050011504024I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929144,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014050011303664I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929145,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014050001504023I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929146,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014040301504022I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929147,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014040301303663I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929148,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014040291504021I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929149,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014040291303662I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929150,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014040281504020I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929151,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014040281303661I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929152,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014040271504019I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929153,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014040271303660I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929154,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014040261504018I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929155,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014040261303659I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929156,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014040251504017I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929157,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014040251303658I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929158,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014040241504016I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929159,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014040241303657I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929160,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014040231504015I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929161,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014040231303656I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929162,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014040221504014I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929163,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014040211504013I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929164,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014040211303655I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929165,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014040201504012I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929166,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014040191504011I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929167,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014040191303654I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929168,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014040181504010I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929169,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014040181303653I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929170,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014040171504009I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929171,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014040171303652I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929172,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014040161303651I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929173,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014040161504008I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929174,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014040151504007I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929175,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014040151303650I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929176,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014040141504006I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929177,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014040141303649I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929178,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014040131504005I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929179,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014040131303648I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929180,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014040121504004I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929181,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014040121303647I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929182,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014040111504003I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929183,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014040111303646I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929184,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014040101504002I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929185,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014040101303645I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929186,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014040091504001I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929187,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014040081504000I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929188,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014040081303644I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929189,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014040071503999I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929190,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014040061303643I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929191,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014040061503998I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929192,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014040051503997I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929193,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014040051303642I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929194,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014040041503996I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929195,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014040031503995I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929196,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014040031303641I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929197,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014040021503994I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929198,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014040021303640I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929199,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014040011303639I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929200,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014040011503993I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929201,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014040001503992I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929202,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014030041503991I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929203,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014030041303638I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929204,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014030031303637I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929205,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014030031503990I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929206,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014030021503989I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929207,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014030021303636I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929208,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014030011303635I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929209,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014030011503988I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929210,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014030001503987I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929211,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014030001303634I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929212,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374MR1014020001503986I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929213,
+"sol": 3374,
+"camera": {
+"id": 22,
+"name": "MAST",
+"rover_id": 5,
+"full_name": "Mast Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mcam/3374ML1014020001303633I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928966,
+"sol": 3374,
+"camera": {
+"id": 23,
+"name": "CHEMCAM",
+"rover_id": 5,
+"full_name": "Chemistry and Camera Complex"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/ccam/CR0_697014266EDR_F0930000CCAM02374M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928967,
+"sol": 3374,
+"camera": {
+"id": 23,
+"name": "CHEMCAM",
+"rover_id": 5,
+"full_name": "Chemistry and Camera Complex"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/ccam/CR0_697014221EDR_F0930000CCAM02374M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928968,
+"sol": 3374,
+"camera": {
+"id": 23,
+"name": "CHEMCAM",
+"rover_id": 5,
+"full_name": "Chemistry and Camera Complex"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/ccam/CR0_697014000EDR_F0930000CCAM02374M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928969,
+"sol": 3374,
+"camera": {
+"id": 23,
+"name": "CHEMCAM",
+"rover_id": 5,
+"full_name": "Chemistry and Camera Complex"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/ccam/CR0_697013917EDR_F0930000CCAM02374M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928970,
+"sol": 3374,
+"camera": {
+"id": 23,
+"name": "CHEMCAM",
+"rover_id": 5,
+"full_name": "Chemistry and Camera Complex"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/ccam/CR0_697013872EDR_F0930000CCAM02374M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928971,
+"sol": 3374,
+"camera": {
+"id": 23,
+"name": "CHEMCAM",
+"rover_id": 5,
+"full_name": "Chemistry and Camera Complex"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/ccam/CR0_697013676EDR_F0930000CCAM02374M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928972,
+"sol": 3374,
+"camera": {
+"id": 23,
+"name": "CHEMCAM",
+"rover_id": 5,
+"full_name": "Chemistry and Camera Complex"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/ccam/CR0_697013595EDR_F0930000CCAM02374M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928973,
+"sol": 3374,
+"camera": {
+"id": 23,
+"name": "CHEMCAM",
+"rover_id": 5,
+"full_name": "Chemistry and Camera Complex"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/ccam/CR0_697013550EDR_F0930000CCAM02374M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928974,
+"sol": 3374,
+"camera": {
+"id": 23,
+"name": "CHEMCAM",
+"rover_id": 5,
+"full_name": "Chemistry and Camera Complex"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/ccam/CR0_697013393EDR_F0930000CCAM02374M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928975,
+"sol": 3374,
+"camera": {
+"id": 23,
+"name": "CHEMCAM",
+"rover_id": 5,
+"full_name": "Chemistry and Camera Complex"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/ccam/CR0_697013262EDR_F0930000CCAM01374M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928976,
+"sol": 3374,
+"camera": {
+"id": 23,
+"name": "CHEMCAM",
+"rover_id": 5,
+"full_name": "Chemistry and Camera Complex"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/ccam/CR0_697012573EDR_F0930000CCAM01374M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928977,
+"sol": 3374,
+"camera": {
+"id": 23,
+"name": "CHEMCAM",
+"rover_id": 5,
+"full_name": "Chemistry and Camera Complex"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/soas/rdr/ccam/CR0_697014266PRC_F0930000CCAM02374L1.PNG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928978,
+"sol": 3374,
+"camera": {
+"id": 23,
+"name": "CHEMCAM",
+"rover_id": 5,
+"full_name": "Chemistry and Camera Complex"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/soas/rdr/ccam/CR0_697014266PRC_F0930000CCAM02374L2.PNG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928979,
+"sol": 3374,
+"camera": {
+"id": 23,
+"name": "CHEMCAM",
+"rover_id": 5,
+"full_name": "Chemistry and Camera Complex"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/soas/rdr/ccam/CR0_697014221PRC_F0930000CCAM02374L1.PNG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928980,
+"sol": 3374,
+"camera": {
+"id": 23,
+"name": "CHEMCAM",
+"rover_id": 5,
+"full_name": "Chemistry and Camera Complex"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/soas/rdr/ccam/CR0_697014221PRC_F0930000CCAM02374L2.PNG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928981,
+"sol": 3374,
+"camera": {
+"id": 23,
+"name": "CHEMCAM",
+"rover_id": 5,
+"full_name": "Chemistry and Camera Complex"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/soas/rdr/ccam/CR0_697014000PRC_F0930000CCAM02374L1.PNG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928982,
+"sol": 3374,
+"camera": {
+"id": 23,
+"name": "CHEMCAM",
+"rover_id": 5,
+"full_name": "Chemistry and Camera Complex"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/soas/rdr/ccam/CR0_697014000PRC_F0930000CCAM02374L2.PNG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928983,
+"sol": 3374,
+"camera": {
+"id": 23,
+"name": "CHEMCAM",
+"rover_id": 5,
+"full_name": "Chemistry and Camera Complex"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/soas/rdr/ccam/CR0_697013917PRC_F0930000CCAM02374L1.PNG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928984,
+"sol": 3374,
+"camera": {
+"id": 23,
+"name": "CHEMCAM",
+"rover_id": 5,
+"full_name": "Chemistry and Camera Complex"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/soas/rdr/ccam/CR0_697013917PRC_F0930000CCAM02374L2.PNG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928985,
+"sol": 3374,
+"camera": {
+"id": 23,
+"name": "CHEMCAM",
+"rover_id": 5,
+"full_name": "Chemistry and Camera Complex"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/soas/rdr/ccam/CR0_697013872PRC_F0930000CCAM02374L1.PNG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928986,
+"sol": 3374,
+"camera": {
+"id": 23,
+"name": "CHEMCAM",
+"rover_id": 5,
+"full_name": "Chemistry and Camera Complex"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/soas/rdr/ccam/CR0_697013872PRC_F0930000CCAM02374L2.PNG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928987,
+"sol": 3374,
+"camera": {
+"id": 23,
+"name": "CHEMCAM",
+"rover_id": 5,
+"full_name": "Chemistry and Camera Complex"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/soas/rdr/ccam/CR0_697013676PRC_F0930000CCAM02374L1.PNG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928988,
+"sol": 3374,
+"camera": {
+"id": 23,
+"name": "CHEMCAM",
+"rover_id": 5,
+"full_name": "Chemistry and Camera Complex"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/soas/rdr/ccam/CR0_697013676PRC_F0930000CCAM02374L2.PNG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928989,
+"sol": 3374,
+"camera": {
+"id": 23,
+"name": "CHEMCAM",
+"rover_id": 5,
+"full_name": "Chemistry and Camera Complex"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/soas/rdr/ccam/CR0_697013595PRC_F0930000CCAM02374L1.PNG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928990,
+"sol": 3374,
+"camera": {
+"id": 23,
+"name": "CHEMCAM",
+"rover_id": 5,
+"full_name": "Chemistry and Camera Complex"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/soas/rdr/ccam/CR0_697013595PRC_F0930000CCAM02374L2.PNG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928991,
+"sol": 3374,
+"camera": {
+"id": 23,
+"name": "CHEMCAM",
+"rover_id": 5,
+"full_name": "Chemistry and Camera Complex"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/soas/rdr/ccam/CR0_697013595PRC_F0930000CCAM02374L3.PNG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928992,
+"sol": 3374,
+"camera": {
+"id": 23,
+"name": "CHEMCAM",
+"rover_id": 5,
+"full_name": "Chemistry and Camera Complex"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/soas/rdr/ccam/CR0_697013550PRC_F0930000CCAM02374L1.PNG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928993,
+"sol": 3374,
+"camera": {
+"id": 23,
+"name": "CHEMCAM",
+"rover_id": 5,
+"full_name": "Chemistry and Camera Complex"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/soas/rdr/ccam/CR0_697013393PRC_F0930000CCAM02374L1.PNG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928994,
+"sol": 3374,
+"camera": {
+"id": 23,
+"name": "CHEMCAM",
+"rover_id": 5,
+"full_name": "Chemistry and Camera Complex"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/soas/rdr/ccam/CR0_697013262PRC_F0930000CCAM01374L1.PNG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928995,
+"sol": 3374,
+"camera": {
+"id": 23,
+"name": "CHEMCAM",
+"rover_id": 5,
+"full_name": "Chemistry and Camera Complex"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/soas/rdr/ccam/CR0_697012573PRC_F0930000CCAM01374L1.PNG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928763,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0001520011200440C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928764,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0004190011200430C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928765,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0001520011200420C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928766,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0001520011200410C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928767,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410011200398C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928768,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410011200388C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928769,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410011200378C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928770,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410011200368C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928771,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410011200358C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928772,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410011200348C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928773,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410011200318C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928774,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410011200308C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928775,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410011200298C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928776,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0001520021200448I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928777,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0001520021200447I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928778,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0001520021200446I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928779,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0001520021200445I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928780,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0001520021200444I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928781,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0001520021200443I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928782,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0001520021200442I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928783,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0001520021200441I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928784,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0001520011200440I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928785,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0001520001200439I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928786,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0004190021200438I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928787,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0004190021200437I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928788,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0004190021200436I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928789,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0004190021200435I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928790,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0004190021200434I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928791,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0004190021200433I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928792,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0004190021200432I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928793,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0004190021200431I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928794,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0004190011200430I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928795,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0004190001200429I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928796,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0001520021200428I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928797,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0001520021200427I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928798,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0001520021200426I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928799,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0001520021200425I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928800,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0001520021200424I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928801,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0001520021200423I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928802,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0001520021200422I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928803,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0001520021200421I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928804,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0001520011200420I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928805,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0001520001200419I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928806,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0001520021200418I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928807,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0001520021200417I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928808,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0001520021200416I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928809,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0001520021200415I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928810,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0001520021200414I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928811,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0001520021200413I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928812,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0001520021200412I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928813,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0001520021200411I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928814,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0001520011200410I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928815,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0001520001200409I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928816,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0001900011200408I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928817,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0001900001200407I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928818,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200406I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928819,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200405I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928820,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200404I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928821,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200403I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928822,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200402I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928823,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200401I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928824,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200400I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928825,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200399I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928826,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410011200398I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928827,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410001200397I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928828,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200396I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928829,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200395I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928830,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200394I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928831,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200393I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928832,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200392I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928833,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200391I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928834,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200390I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928835,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200389I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928836,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410011200388I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928837,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410001200387I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928838,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200386I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928839,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200385I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928840,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200384I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928841,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200383I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928842,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200382I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928843,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200381I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928844,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200380I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928845,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200379I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928846,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410011200378I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928847,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410001200377I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928848,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200376I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928849,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200375I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928850,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200374I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928851,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200373I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928852,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200372I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928853,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200371I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928854,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200370I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928855,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200369I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928856,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410011200368I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928857,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410001200367I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928858,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200366I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928859,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200365I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928860,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200364I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928861,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200363I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928862,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200362I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928863,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200361I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928864,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200360I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928865,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200359I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928866,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410011200358I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928867,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410001200357I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928868,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200356I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928869,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200355I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928870,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200354I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928871,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200353I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928872,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200352I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928873,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200351I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928874,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200350I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928875,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200349I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928876,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410011200348I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928877,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410001200347I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928878,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200346I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928879,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200345I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928880,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200344I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928881,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200343I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928882,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200342I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928883,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200341I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928884,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200340I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928885,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200339I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928886,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410011200338I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928887,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410001200337I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928888,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200336I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928889,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200335I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928890,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200334I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928891,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200333I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928892,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200332I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928893,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200331I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928894,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200330I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928895,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200329I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928896,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410011200328I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928897,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410001200327I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928898,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200326I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928899,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200325I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928900,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200324I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928901,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200323I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928902,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200322I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928903,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200321I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928904,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200320I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928905,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200319I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928906,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410011200318I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928907,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410001200317I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928908,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200316I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928909,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200315I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928910,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200314I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928911,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200313I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928912,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200312I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928913,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200311I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928914,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200310I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928915,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200309I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928916,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410011200308I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928917,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410001200307I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928918,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200306I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928919,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200305I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928920,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200304I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928921,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200303I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928922,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200302I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928923,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200301I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928924,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200300I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928925,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200299I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928926,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410011200298I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928927,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410001200297I01_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928996,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200319C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928997,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410001200317C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928998,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200316C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928999,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200315C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929000,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200314C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929001,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200313C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929002,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200312C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929003,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200311C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929004,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200310C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929005,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200309C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929006,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410001200307C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929007,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200306C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929008,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200305C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929009,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200304C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929010,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200303C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929011,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200302C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929012,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200301C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929013,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200300C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929014,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410021200299C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929015,
+"sol": 3374,
+"camera": {
+"id": 24,
+"name": "MAHLI",
+"rover_id": 5,
+"full_name": "Mars Hand Lens Imager"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/msss/03374/mhli/3374MH0008410001200297C00_DXXX.jpg",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928934,
+"sol": 3374,
+"camera": {
+"id": 26,
+"name": "NAVCAM",
+"rover_id": 5,
+"full_name": "Navigation Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/ncam/NRB_697035643EDR_F0930000NCAM00599M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928935,
+"sol": 3374,
+"camera": {
+"id": 26,
+"name": "NAVCAM",
+"rover_id": 5,
+"full_name": "Navigation Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/ncam/NRB_697035626EDR_F0930000NCAM00599M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928936,
+"sol": 3374,
+"camera": {
+"id": 26,
+"name": "NAVCAM",
+"rover_id": 5,
+"full_name": "Navigation Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/ncam/NRB_697035609EDR_F0930000NCAM00599M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928937,
+"sol": 3374,
+"camera": {
+"id": 26,
+"name": "NAVCAM",
+"rover_id": 5,
+"full_name": "Navigation Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/ncam/NRB_697035592EDR_F0930000NCAM00599M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928938,
+"sol": 3374,
+"camera": {
+"id": 26,
+"name": "NAVCAM",
+"rover_id": 5,
+"full_name": "Navigation Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/ncam/NRB_697035575EDR_F0930000NCAM00599M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928939,
+"sol": 3374,
+"camera": {
+"id": 26,
+"name": "NAVCAM",
+"rover_id": 5,
+"full_name": "Navigation Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/ncam/NRB_697033664EDR_F0930000NCAM00200M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928940,
+"sol": 3374,
+"camera": {
+"id": 26,
+"name": "NAVCAM",
+"rover_id": 5,
+"full_name": "Navigation Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/ncam/NRB_697032942EDR_F0930000NCAM00200M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928941,
+"sol": 3374,
+"camera": {
+"id": 26,
+"name": "NAVCAM",
+"rover_id": 5,
+"full_name": "Navigation Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/ncam/NRB_697035490EDR_S0930000NCAM00599M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928942,
+"sol": 3374,
+"camera": {
+"id": 26,
+"name": "NAVCAM",
+"rover_id": 5,
+"full_name": "Navigation Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/ncam/NRB_697035475EDR_S0930000NCAM00599M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928943,
+"sol": 3374,
+"camera": {
+"id": 26,
+"name": "NAVCAM",
+"rover_id": 5,
+"full_name": "Navigation Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/ncam/NRB_697035460EDR_S0930000NCAM00599M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928944,
+"sol": 3374,
+"camera": {
+"id": 26,
+"name": "NAVCAM",
+"rover_id": 5,
+"full_name": "Navigation Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/ncam/NRB_697035446EDR_S0930000NCAM00599M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928945,
+"sol": 3374,
+"camera": {
+"id": 26,
+"name": "NAVCAM",
+"rover_id": 5,
+"full_name": "Navigation Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/ncam/NRB_697035432EDR_S0930000NCAM00599M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928946,
+"sol": 3374,
+"camera": {
+"id": 26,
+"name": "NAVCAM",
+"rover_id": 5,
+"full_name": "Navigation Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/ncam/NRB_697035418EDR_S0930000NCAM00599M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928947,
+"sol": 3374,
+"camera": {
+"id": 26,
+"name": "NAVCAM",
+"rover_id": 5,
+"full_name": "Navigation Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/ncam/NRB_697035404EDR_S0930000NCAM00599M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928948,
+"sol": 3374,
+"camera": {
+"id": 26,
+"name": "NAVCAM",
+"rover_id": 5,
+"full_name": "Navigation Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/ncam/NRB_697035390EDR_S0930000NCAM00599M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928949,
+"sol": 3374,
+"camera": {
+"id": 26,
+"name": "NAVCAM",
+"rover_id": 5,
+"full_name": "Navigation Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/ncam/NRB_697001496EDR_S0930000NCAM00567M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928950,
+"sol": 3374,
+"camera": {
+"id": 26,
+"name": "NAVCAM",
+"rover_id": 5,
+"full_name": "Navigation Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/ncam/NRB_697001458EDR_S0930000NCAM00567M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928951,
+"sol": 3374,
+"camera": {
+"id": 26,
+"name": "NAVCAM",
+"rover_id": 5,
+"full_name": "Navigation Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/ncam/NRB_697001420EDR_S0930000NCAM00567M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928952,
+"sol": 3374,
+"camera": {
+"id": 26,
+"name": "NAVCAM",
+"rover_id": 5,
+"full_name": "Navigation Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/ncam/NRB_697001382EDR_S0930000NCAM00567M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928953,
+"sol": 3374,
+"camera": {
+"id": 26,
+"name": "NAVCAM",
+"rover_id": 5,
+"full_name": "Navigation Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/ncam/NRB_697001344EDR_S0930000NCAM00567M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928954,
+"sol": 3374,
+"camera": {
+"id": 26,
+"name": "NAVCAM",
+"rover_id": 5,
+"full_name": "Navigation Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/ncam/NRB_697001306EDR_S0930000NCAM00567M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928955,
+"sol": 3374,
+"camera": {
+"id": 26,
+"name": "NAVCAM",
+"rover_id": 5,
+"full_name": "Navigation Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/ncam/NRB_697001268EDR_S0930000NCAM00567M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928956,
+"sol": 3374,
+"camera": {
+"id": 26,
+"name": "NAVCAM",
+"rover_id": 5,
+"full_name": "Navigation Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/ncam/NRB_697001230EDR_S0930000NCAM00567M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928957,
+"sol": 3374,
+"camera": {
+"id": 26,
+"name": "NAVCAM",
+"rover_id": 5,
+"full_name": "Navigation Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/ncam/NRB_697001192EDR_S0930000NCAM00536M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928958,
+"sol": 3374,
+"camera": {
+"id": 26,
+"name": "NAVCAM",
+"rover_id": 5,
+"full_name": "Navigation Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/ncam/NRB_697001159EDR_S0930000NCAM00536M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928959,
+"sol": 3374,
+"camera": {
+"id": 26,
+"name": "NAVCAM",
+"rover_id": 5,
+"full_name": "Navigation Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/ncam/NRB_697001126EDR_S0930000NCAM00536M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928960,
+"sol": 3374,
+"camera": {
+"id": 26,
+"name": "NAVCAM",
+"rover_id": 5,
+"full_name": "Navigation Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/ncam/NRB_697001093EDR_S0930000NCAM00536M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928961,
+"sol": 3374,
+"camera": {
+"id": 26,
+"name": "NAVCAM",
+"rover_id": 5,
+"full_name": "Navigation Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/ncam/NRB_697001060EDR_S0930000NCAM00536M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928962,
+"sol": 3374,
+"camera": {
+"id": 26,
+"name": "NAVCAM",
+"rover_id": 5,
+"full_name": "Navigation Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/ncam/NRB_697001027EDR_S0930000NCAM00536M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928963,
+"sol": 3374,
+"camera": {
+"id": 26,
+"name": "NAVCAM",
+"rover_id": 5,
+"full_name": "Navigation Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/ncam/NRB_697000994EDR_S0930000NCAM00536M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928964,
+"sol": 3374,
+"camera": {
+"id": 26,
+"name": "NAVCAM",
+"rover_id": 5,
+"full_name": "Navigation Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/ncam/NRB_697000962EDR_S0930000NCAM00536M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 928965,
+"sol": 3374,
+"camera": {
+"id": 26,
+"name": "NAVCAM",
+"rover_id": 5,
+"full_name": "Navigation Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/ncam/NRB_697012078EDR_M0930000NCAM00580M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929214,
+"sol": 3374,
+"camera": {
+"id": 26,
+"name": "NAVCAM",
+"rover_id": 5,
+"full_name": "Navigation Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/ncam/NRB_697036446EDR_F0930000NCAM00599M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929215,
+"sol": 3374,
+"camera": {
+"id": 26,
+"name": "NAVCAM",
+"rover_id": 5,
+"full_name": "Navigation Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/ncam/NRB_697036416EDR_F0930000NCAM00599M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929216,
+"sol": 3374,
+"camera": {
+"id": 26,
+"name": "NAVCAM",
+"rover_id": 5,
+"full_name": "Navigation Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/ncam/NRB_697036387EDR_F0930000NCAM00599M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929217,
+"sol": 3374,
+"camera": {
+"id": 26,
+"name": "NAVCAM",
+"rover_id": 5,
+"full_name": "Navigation Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/ncam/NRB_697036359EDR_F0930000NCAM00599M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929218,
+"sol": 3374,
+"camera": {
+"id": 26,
+"name": "NAVCAM",
+"rover_id": 5,
+"full_name": "Navigation Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/ncam/NRB_697036331EDR_F0930000NCAM00599M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929219,
+"sol": 3374,
+"camera": {
+"id": 26,
+"name": "NAVCAM",
+"rover_id": 5,
+"full_name": "Navigation Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/ncam/NRB_697036304EDR_F0930000NCAM00599M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929220,
+"sol": 3374,
+"camera": {
+"id": 26,
+"name": "NAVCAM",
+"rover_id": 5,
+"full_name": "Navigation Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/ncam/NRB_697036277EDR_F0930000NCAM00599M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929221,
+"sol": 3374,
+"camera": {
+"id": 26,
+"name": "NAVCAM",
+"rover_id": 5,
+"full_name": "Navigation Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/ncam/NRB_697036251EDR_F0930000NCAM00599M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929222,
+"sol": 3374,
+"camera": {
+"id": 26,
+"name": "NAVCAM",
+"rover_id": 5,
+"full_name": "Navigation Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/ncam/NRB_697035697EDR_F0930000NCAM00599M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929223,
+"sol": 3374,
+"camera": {
+"id": 26,
+"name": "NAVCAM",
+"rover_id": 5,
+"full_name": "Navigation Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/ncam/NRB_697035679EDR_F0930000NCAM00599M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929224,
+"sol": 3374,
+"camera": {
+"id": 26,
+"name": "NAVCAM",
+"rover_id": 5,
+"full_name": "Navigation Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/ncam/NRB_697035661EDR_F0930000NCAM00599M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929225,
+"sol": 3374,
+"camera": {
+"id": 26,
+"name": "NAVCAM",
+"rover_id": 5,
+"full_name": "Navigation Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/ncam/NRB_697036554EDR_S0930000NCAM00599M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929226,
+"sol": 3374,
+"camera": {
+"id": 26,
+"name": "NAVCAM",
+"rover_id": 5,
+"full_name": "Navigation Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/ncam/NRB_697036535EDR_S0930000NCAM00599M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929227,
+"sol": 3374,
+"camera": {
+"id": 26,
+"name": "NAVCAM",
+"rover_id": 5,
+"full_name": "Navigation Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/ncam/NRB_697036176EDR_S0930000NCAM00599M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929228,
+"sol": 3374,
+"camera": {
+"id": 26,
+"name": "NAVCAM",
+"rover_id": 5,
+"full_name": "Navigation Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/ncam/NRB_697036146EDR_S0930000NCAM00599M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929229,
+"sol": 3374,
+"camera": {
+"id": 26,
+"name": "NAVCAM",
+"rover_id": 5,
+"full_name": "Navigation Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/ncam/NRB_697036116EDR_S0930000NCAM00599M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929230,
+"sol": 3374,
+"camera": {
+"id": 26,
+"name": "NAVCAM",
+"rover_id": 5,
+"full_name": "Navigation Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/ncam/NRB_697036087EDR_S0930000NCAM00599M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929231,
+"sol": 3374,
+"camera": {
+"id": 26,
+"name": "NAVCAM",
+"rover_id": 5,
+"full_name": "Navigation Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/ncam/NRB_697036059EDR_S0930000NCAM00599M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929232,
+"sol": 3374,
+"camera": {
+"id": 26,
+"name": "NAVCAM",
+"rover_id": 5,
+"full_name": "Navigation Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/ncam/NRB_697036031EDR_S0930000NCAM00599M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929233,
+"sol": 3374,
+"camera": {
+"id": 26,
+"name": "NAVCAM",
+"rover_id": 5,
+"full_name": "Navigation Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/ncam/NRB_697036004EDR_S0930000NCAM00599M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929234,
+"sol": 3374,
+"camera": {
+"id": 26,
+"name": "NAVCAM",
+"rover_id": 5,
+"full_name": "Navigation Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/ncam/NRB_697035978EDR_S0930000NCAM00599M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929235,
+"sol": 3374,
+"camera": {
+"id": 26,
+"name": "NAVCAM",
+"rover_id": 5,
+"full_name": "Navigation Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/ncam/NRB_697035905EDR_S0930000NCAM00599M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929236,
+"sol": 3374,
+"camera": {
+"id": 26,
+"name": "NAVCAM",
+"rover_id": 5,
+"full_name": "Navigation Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/ncam/NRB_697035880EDR_S0930000NCAM00599M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929237,
+"sol": 3374,
+"camera": {
+"id": 26,
+"name": "NAVCAM",
+"rover_id": 5,
+"full_name": "Navigation Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/ncam/NRB_697035856EDR_S0930000NCAM00599M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929238,
+"sol": 3374,
+"camera": {
+"id": 26,
+"name": "NAVCAM",
+"rover_id": 5,
+"full_name": "Navigation Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/ncam/NRB_697035832EDR_S0930000NCAM00599M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929239,
+"sol": 3374,
+"camera": {
+"id": 26,
+"name": "NAVCAM",
+"rover_id": 5,
+"full_name": "Navigation Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/ncam/NRB_697035808EDR_S0930000NCAM00599M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929240,
+"sol": 3374,
+"camera": {},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/ncam/NRB_697035785EDR_S0930000NCAM00599M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929241,
+"sol": 3374,
+"camera": {
+"id": 26,
+"name": "NAVCAM",
+"rover_id": 5,
+"full_name": "Navigation Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/ncam/NRB_697035762EDR_S0930000NCAM00599M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+},
+{
+"id": 929242,
+"sol": 3374,
+"camera": {
+"id": 26,
+"name": "NAVCAM",
+"rover_id": 5,
+"full_name": "Navigation Camera"
+},
+"img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03374/opgs/edr/ncam/NRB_697035739EDR_S0930000NCAM00599M_.JPG",
+"earth_date": "2022-02-01",
+"rover": {
+"id": 5,
+"name": "Curiosity",
+"landing_date": "2012-08-06",
+"launch_date": "2011-11-26",
+"status": "active"
+}
+}
+]
+}
