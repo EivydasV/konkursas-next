@@ -9,7 +9,6 @@ import { Rovers } from '../context/Rovers'
 // import Link from 'next/link'
 
 export default function Home() {
-  const [error, setError] = useState(null)
   const [currentPage, setCurrentPage] = useState(1)
 
   const { rovers, setRovers } = useContext(Rovers)
@@ -26,7 +25,6 @@ export default function Home() {
       )
       setRovers(res.data)
     } catch (e) {
-      setError(e.message)
       setRovers([])
     }
   }
@@ -39,7 +37,6 @@ export default function Home() {
     <>
       <div className='container px-5 mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8'>
         {rovers.photos &&
-          !error &&
           rovers.photos.map((dat, index) => (
             <Card
               key={index}
@@ -78,15 +75,3 @@ export default function Home() {
     </>
   )
 }
-
-// export async function getServerSideProps() {
-//   let res
-//   try {
-//     res = await axios.get(`${URL}?earth_date=2022-2-1&api_key=${KEY}&page=1`)
-//   } catch (e) {
-//     console.error(e)
-//     res.data = []
-//   }
-//   console.log('res', res.data)
-//   return { props: { data: res.data } }
-// }
